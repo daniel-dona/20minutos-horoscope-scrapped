@@ -9,12 +9,12 @@ base_url = "https://www.20minutos.es/horoscopo/solar/prediccion/"
 
 signs = ["aries", "tauro", "geminis", "cancer", "leo", "virgo", "libra", "escorpio", "sagitario", "capricornio", "acuario", "piscis"]
 
-year = 2015
+year = 2016
 
 start = datetime.date(year,1,1)
 stop = datetime.date(year,12,31)
 
-delay = 0.1
+delay = 1
 
 print("sign\tdate\tprediction")
 

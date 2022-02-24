@@ -9,7 +9,7 @@ base_url = "https://www.20minutos.es/horoscopo/solar/prediccion/"
 
 signs = ["aries", "tauro", "geminis", "cancer", "leo", "virgo", "libra", "escorpio", "sagitario", "capricornio", "acuario", "piscis"]
 
-year = 2013
+year = 2015
 
 start = datetime.date(year,1,1)
 stop = datetime.date(year,12,31)
